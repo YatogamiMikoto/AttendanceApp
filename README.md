@@ -1,6 +1,6 @@
-# attendance
+# Attendace
 
-A new Flutter project.
+A new Flutter project which makes attendance easy!
 
 ## Getting Started
 
